@@ -106,7 +106,7 @@ export default function Portfolio() {
               <div className="relative">
                 <div className="w-80 h-80 rounded-full overflow-hidden shadow-2xl border-4 border-white">
                  <Image
-                    src="/placeholder.jpeg"
+                    src="/avatar1.png"
                     alt="Dhiraj Anil Wagh"
                     width={320}
                     height={320}
