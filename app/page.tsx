@@ -35,7 +35,7 @@ export default function Portfolio() {
       description:
         "Launched an AI career platform attracting 500+ active users, featuring ATS-compatible resume analysis (95%+ match rate)",
       highlights: [
-        "Orchestrated integration of OpenAI&#39s GPT-4 for personalized interview preparation",
+        "Orchestrated integration of OpenAI&#39;s GPT-4 for personalized interview preparation",
         "Crafted ML recommendation algorithm using Adzuna API with 85% user satisfaction",
       ],
     },
@@ -178,13 +178,13 @@ export default function Portfolio() {
             <div>
               <h3 className="text-2xl font-semibold mb-6 text-gray-900">Professional Summary</h3>
               <p className="text-gray-700 leading-relaxed mb-6 text-justify">
-                I&#39m a passionate Information Technology graduate specializing in computer vision, machine learning
-                algorithms, and full-stack development. With a strong foundation in AI/ML technologies, I&#39ve
+                I&#39;m a passionate Information Technology graduate specializing in computer vision, machine learning
+                algorithms, and full-stack development. With a strong foundation in AI/ML technologies, I&#39;ve
                 successfully delivered multiple production-ready applications that solve real-world problems.
               </p>
               <p className="text-gray-700 leading-relaxed text-justify">
                 My expertise spans from developing sophisticated computer vision systems for safety applications to
-                building AI-powered platforms that enhance user experiences. I&#39m driven by the potential of technology
+                building AI-powered platforms that enhance user experiences. I&#39;m driven by the potential of technology
                 to create meaningful impact.
               </p>
             </div>
@@ -430,9 +430,9 @@ export default function Portfolio() {
       {/* Contact Section */}
       <section id="contact" className="py-20 px-4">
         <div className="container mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-8 text-gray-900">Let&#39s Connect</h2>
+          <h2 className="text-4xl font-bold mb-8 text-gray-900">Let&#39;s Connect</h2>
           <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto">
-            I&#39m always interested in discussing new opportunities, innovative projects, and collaborations in AI/ML and
+            I&#39;m always interested in discussing new opportunities, innovative projects, and collaborations in AI/ML and
             software development.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
